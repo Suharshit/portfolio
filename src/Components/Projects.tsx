@@ -85,7 +85,7 @@ const Projects = () => {
               <CardContent className="">
                 <div>
                   <a href="https://github.com/Suharshit/reyban-clone" target="_blank">
-                    <video src="/public/assets/website-video/rayban.mp4" className="rounded-lg" autoPlay muted loop></video>
+                    <video src={"/public/assets/website-video/rayban.mp4"} className="rounded-lg" autoPlay muted loop></video>
                   </a>
                 </div>
                 <div className="mt-2 flex space-x-3">
