@@ -25,7 +25,7 @@ const Projects = () => {
               <CardContent className="">
                 <div>
                   <a href="https://github.com/Suharshit/Eco-Millets-Hub-typescript" target="_blank">
-                    <video src="/assets/eco-millets-hub.mp4" className="rounded-lg" autoPlay muted loop></video>
+                    <video src="https://suharshitsingh-portfolio.vercel.app/assets/eco-millets-hub.mp4" className="rounded-lg" autoPlay muted loop></video>
                   </a>
                 </div>
                 <div className="mt-2 flex space-x-3">
@@ -57,7 +57,7 @@ const Projects = () => {
               <CardContent className="">
                 <div>
                   <a href="https://github.com/Suharshit/Readaholics" target="_blank">
-                    <video src="/assets/readaholic.mp4" className="rounded-lg" autoPlay muted loop></video>
+                    <video src="https://suharshitsingh-portfolio.vercel.app/assets/readaholic.mp4" className="rounded-lg" autoPlay muted loop></video>
                   </a>
                 </div>
                 <div className="mt-2 flex space-x-3">
@@ -85,7 +85,7 @@ const Projects = () => {
               <CardContent className="">
                 <div>
                   <a href="https://github.com/Suharshit/reyban-clone" target="_blank">
-                    <video src="/assets/rayban.mp4" className="rounded-lg" autoPlay muted loop></video>
+                    <video src="https://suharshitsingh-portfolio.vercel.app/assets/rayban.mp4" className="rounded-lg" autoPlay muted loop></video>
                   </a>
                 </div>
                 <div className="mt-2 flex space-x-3">
